@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33218082577",
+    "project_id": "sonalancer-ak",
+    "storage_bucket": "sonalancer-ak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33218082577:android:0bd69a52bf59459b5fbeb0",
+        "android_client_info": {
+          "package_name": "com.example.lancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33218082577-dce6f3j9f3vm5bs14hqsdgl4p443l8k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgjQAcw4BgewVo45nqaDISAujMNl2e3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33218082577-dce6f3j9f3vm5bs14hqsdgl4p443l8k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
